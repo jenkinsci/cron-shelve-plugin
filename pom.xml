@@ -11,7 +11,7 @@
   </parent>
   <groupId>org.jenkins-ci.plugins</groupId>
   <artifactId>cron-shelve</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>hpi</packaging>
 
   <description> Performs job shelving actions based on cron schedule and regex</description>
@@ -36,7 +36,8 @@
         <connection>scm:git:git://github.com/jenkinsci/cron-shelve-plugin.git</connection>
         <developerConnection>scm:git:git://github.com/jenkinsci/cron-shelve-plugin.git</developerConnection>
         <url>https://github.com/jenkinsci/cron-shelve-plugin</url>
-    </scm>
+      <tag>cron-shelve-1.0</tag>
+  </scm>
   <repositories>
     <repository>
       <id>repo.jenkins-ci.org</id>
