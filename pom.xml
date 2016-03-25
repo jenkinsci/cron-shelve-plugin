@@ -33,8 +33,8 @@
 
   <!-- Assuming you want to host on @jenkinsci: -->
     <scm>
-        <connection>scm:git:ssh://github.com/jenkinsci/cron-shelve-plugin.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/jenkinsci/cron-shelve-plugin.git</developerConnection>
+        <connection>scm:git:git://github.com/jenkinsci/cron-shelve-plugin.git</connection>
+        <developerConnection>scm:git:git://github.com/jenkinsci/cron-shelve-plugin.git</developerConnection>
         <url>https://github.com/jenkinsci/cron-shelve-plugin</url>
     </scm>
   <repositories>
